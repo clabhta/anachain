@@ -1,5 +1,5 @@
 # anachain
-Wiki Clone for the Living Moon Project.
+Wiki Clone for the Living Moon Project. :lavender:
 
 `
 "anachain, f. (gs. ~e, pl. -ana). 1. Mischance, calamity, disaster; loss.
