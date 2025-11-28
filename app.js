@@ -73,7 +73,7 @@ searchForm.addEventListener("submit", async (e) => {
     }
 });
 
-// Event listener for the theme toggler
+// event listener for theme toggler
 themeToggler.addEventListener("click", () => {
     body.classList.toggle("dark-theme");
     if (body.classList.contains("dark-theme")) {
