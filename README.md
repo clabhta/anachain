@@ -5,4 +5,6 @@ Wiki Clone for the Living Moon Project. :hyacinth:
 ...
 I bhfad ó bhaile uainn an t-olc is an anachain; Dia dár réiteach i bhfad ó bhaile, God keep us from all harm.[^1]
 
+WIP. The aim is to develop a website that allows users to effortlessly search for, edit, and create new wiki-style pages related to the Living Moon Project. The project's name is subject to change.
+
 [^1]: "anachain." teanglann.ie. 2025. https://www.teanglann.ie/en/fgb/anachain (28 November 2025).
